@@ -3,7 +3,7 @@ function sayHello() {
   alert("Hello student");
 }
 
-// Check if number is positive, negative, or zero using switch
+
 function checkNumber() {
   let num = Number(document.getElementById("numInput").value);
 
